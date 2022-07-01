@@ -1,0 +1,16 @@
+{
+  "name": "@emeerald/emerald",
+  "version": "1.0.0",
+  "description": "A Discord.JS framework",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeerald/emerald.git"
+  },
+  "author": "Emerald Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emeerald/emerald/issues"
+  },
+  "homepage": "https://github.com/emeerald/emerald#readme"
+}
